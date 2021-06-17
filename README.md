@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @S4ris
+- 👋 Hi, I’m Adam
 - 👀 I’m interested in Backend and Frontend
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java,HTML and CSS
 - 💞️ I’m looking to collaborate on some projects
 - 📫 How to reach me wiszniewskiadam95@gmail.com
 
