@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Adam
-- 👀 I’m interested in Backend and Frontend
-- 🌱 I’m currently learning Java, HTML, CSS and JavaScript
-- 💞️ I’m looking to collaborate on some projects
+- 👋 Hello. My name is Adam, Saris or Sarthis for friends :)
+- 👀 I’m interested in backend and frontend, hopefully to become Full-stack
+- 🌱 I’m currently learning Java and Spring framework for backend. HTML, CSS and JS for frontend
 - 📫 How to reach me wiszniewskiadam95@gmail.com
 
 <!---
