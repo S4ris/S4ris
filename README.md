@@ -1,6 +1,6 @@
 - 👋 Hello. My name is Adam
 - 👀 I’m interested in backend and frontend, hopefully to become Full-stack
-- 🌱 I’m currently learning Java and Spring framework for backend. HTML, CSS and JS for frontend
+- 🌱 I’m currently learning Java and Spring framework for backend. Vue for frontend
 - 📫 How to reach me wiszniewskiadam95@gmail.com
 
 <!---
