@@ -13,7 +13,7 @@ I don't have commercial experience yet, but I am passionately developing my skil
 - **Description:** An educational DevOps project designed to build a fully automated development environment using Vagrant, Ubuntu, and Python.
 - **Technologies:** Vagrant, VirtualBox, Ubuntu (Jammy 22.04), Python
 
-### 2. [Java REST Application](https://github.com/S4ris/S4ris.github.io-AmberBrewSite)
+### 2. [Java REST Application](https://github.com/S4ris/Hondana)
 - **Description:** A Java application using the Spring framework, providing data management through a REST API.
 - **Technologies:** Java, Spring Framework
 
