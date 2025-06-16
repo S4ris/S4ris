@@ -9,9 +9,9 @@ I don't have commercial experience yet, but I am passionately developing my skil
 
 ## My Projects
 
-### 1. [Static Website](https://github.com/S4ris/S4ris.github.io-AmberBrewSite)
-- **Description:** A simple static website project.
-- **Technologies:** HTML, CSS, JavaScript
+### 1. [DevOps-Lab](https://github.com/S4ris/DevOps-Lab)
+- **Description:** An educational DevOps project designed to build a fully automated development environment using Vagrant, Ubuntu, and Python.
+- **Technologies:** Vagrant, VirtualBox, Ubuntu (Jammy 22.04), Python
 
 ### 2. [Java REST Application](https://github.com/S4ris/S4ris.github.io-AmberBrewSite)
 - **Description:** A Java application using the Spring framework, providing data management through a REST API.
@@ -20,7 +20,7 @@ I don't have commercial experience yet, but I am passionately developing my skil
 ---
 
 ## Currently Working On
-I am currently expanding my knowledge of **Python** and working on a project related to it.
+I am currently expanding my knowledge of **Python**,**DevOps Technologies** and **Cloud computing** and working on a project related to it.
 
 ---
 
