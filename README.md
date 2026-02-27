@@ -3,7 +3,7 @@
 ## About Me
 Hi there! My name is Adam Wiszniewski, and I go by the pseudonym **Saris/Sartis** online. I graduated with a degree in **Programming** from WSB Merito.
 
-I don't have commercial experience yet, but I am passionately developing my skills to achieve my dream of becoming a **DevOps Engineer/Developer**.
+I don't have commercial experience yet, but I am passionately developing my skills to achieve my dream of becoming a **DevOps Engineer**.
 
 ---
 
